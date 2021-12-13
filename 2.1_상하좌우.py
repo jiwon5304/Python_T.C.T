@@ -1,3 +1,6 @@
+# 입력예시 : 5(첫째줄 공간크기) / R R R U D D 
+# 출력예시 : 3 4
+
 # N 입력 받기
 n = int(input())
 x,y = 1,1
@@ -22,4 +25,3 @@ for plan in plans:
     x,y = nx, ny
 
 print(x,y)
-

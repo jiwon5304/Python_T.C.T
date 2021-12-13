@@ -17,6 +17,7 @@ result.sort()
 # 숫자가 하나라도 존재하는 경우 가장 뒤에 삽입
 if value != 0:
     result.append(str(value))
+    print(result)
 
 # 최종 결과 출력(리스트를 문자열로 반환하여 출력)
 print(''.join(result))
