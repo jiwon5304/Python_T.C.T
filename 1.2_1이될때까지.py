@@ -1,3 +1,24 @@
+# 방법1
+n = 25
+k = 3
+
+count = 0
+
+while True:
+    # n % k == 0일 때까지 n-1을하면서 카운트 1 증가시키기
+    if n % k != 0:
+        n -= 1
+        count += 1
+    # n // k 을 n에 적용하면서 카운트 1 증가시키기
+    else:
+        n //= k
+        count += 1
+    # 만약 n=1이면 중단
+    if n == 1:
+        break
+print(count)
+
+# 방법2
 # n,k를 공백을 기준으로 구분하여 입력받기
 n, k = map(int,input().split())
 
