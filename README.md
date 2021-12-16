@@ -23,6 +23,11 @@
 #### 1. 음료수 얼려먹기 [풀이](https://github.com/jiwon5304/Python_T.C.T/blob/main/3.1_%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.py)
 #### 2. 미로탈출 [풀이](https://github.com/jiwon5304/Python_T.C.T/blob/main/3.2_%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C.py)
 
+<br>
+
+### 💡정렬
+#### 0. 개념 [풀이](https://github.com/jiwon5304/Python_T.C.T/blob/main/4.0_%EC%A0%95%EB%A0%AC.py)
+
 
 <br><br>
 
