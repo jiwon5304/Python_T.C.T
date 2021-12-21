@@ -42,13 +42,15 @@
 
 #### 1. 두 배열의 원소 교체 [풀이](https://github.com/jiwon5304/Python_T.C.T/blob/main/4.1_%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4.py)
 
+<br>
+
 ### 💡이진탐색
 
-#### 0. 개념 [풀이]()
+#### 0. 개념 [풀이](https://github.com/jiwon5304/Python_T.C.T/blob/main/5.0_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89.py)
 
-#### 1. 떡볶이 떡 만들기 [풀이]()
+#### 1. 떡볶이 떡 만들기 [풀이](https://github.com/jiwon5304/Python_T.C.T/blob/main/5.1_%EB%96%A1%EB%B3%B6%EC%9D%B4%20%EB%96%A1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 
-#### 2. 정렬된 배열에서 특정 수의 개수 구하기 [풀이]()
+#### 2. 정렬된 배열에서 특정 수의 개수 구하기 [풀이](https://github.com/jiwon5304/Python_T.C.T/blob/main/5.2_%EC%A0%95%EB%A0%AC%EB%90%9C%20%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%20%ED%8A%B9%EC%A0%95%20%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 
 <br><br>
 
